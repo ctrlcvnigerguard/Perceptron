@@ -1,3 +1,8 @@
 # Neural Networks
-#### The Nature of Code
-#### Perceptron(10.3)
+`C++`
+
+The Nature of Code
+
+---
+
+Perceptron(10.3)
